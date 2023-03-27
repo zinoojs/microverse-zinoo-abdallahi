@@ -1,0 +1,15 @@
+.carousel-item>img {
+    height: 90vh;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 12.25rem !important;
+    background: #0000003f;
+    box-shadow: 0 0 10px 4px #fff;
+    border-radius: 20px;
+}
+
+.card>img {
+    height: 260px !important;
+}
